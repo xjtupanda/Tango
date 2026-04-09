@@ -27,11 +27,12 @@
 </p>
 
 - **Attention Weight:** The distribution is multi-modal and long-tailed, which a vanilla Top-k strategy fails to capture accurately.
-<br>
-➡️ **Our approach:** Expand the candidate set (cover the tail) and perform intra-cluster selection (cover diverse modes).
+  <br>
+  ➡️ **Our approach:** Expand the candidate set (cover the tail) and perform intra-cluster selection (cover diverse modes).
+
 - **Cosine Similarity:** Direct similarity-based clustering often creates fragmented clusters, leading to noisy representations after average pooling.
-<br>
-➡️ **Our approach:** Inject a spatio-temporal locality prior (for smoothness) using our proposed ST-RoPE.
+  <br>
+  ➡️ **Our approach:** Inject a spatio-temporal locality prior (for smoothness) using our proposed ST-RoPE.
   
 
 
