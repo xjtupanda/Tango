@@ -1,0 +1,1 @@
+from .fastv_tango import FastVTangoQwen2Model
