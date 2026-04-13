@@ -6,7 +6,7 @@
 <h1>Tango</h1>
 
 <div>
-    <a href="#"><img src="https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv:coming soon"></a>
+    <a href="https://arxiv.org/abs/2604.09547"><img src="https://img.shields.io/badge/arXiv-2604.09547-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv:2604.09547"></a>
     <a href="https://opensource.org/licenses/Apache-2.0">
     <img alt="Code License" src="https://img.shields.io/badge/Code%20License-Apache_2.0-blue.svg"></a>
 </div>
@@ -115,9 +115,9 @@ If you find our project useful, please consider citing our paper:
 ```
 @article{yin2026tango,
   title={Tango: Taming Visual Signals for Efficient Video Large Language Models},
-  author={},
-  journal={},
-  year={}
+  author={Yin, Shukang and Zhao, Sirui and Wang, Hanchao and Jia, Baozhi and Wang, Xianquan and Fu, Chaoyou and Chen, Enhong},
+  journal={arXiv preprint arXiv:2604.09547},
+  year={2026}
 }
 ```
 
