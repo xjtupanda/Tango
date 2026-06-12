@@ -1,0 +1,31 @@
+{
+    "model": {
+        "llava_video_qwen2_7b": {
+            "class": "LLaVA_OneVision",
+            "algo_type": "baseline",
+            "pre_algo_type": "baseline"
+        }
+    },
+    "data": {
+        "MVBench_64frame": {
+            "class": "MVBench",
+            "dataset": "MVBench",
+            "nframe": 64
+        },
+        "MLVU_64frame": {
+            "class": "MLVU",
+            "dataset": "MLVU",
+            "nframe": 64
+        },
+        "Video-MME_64frame": {
+            "class": "VideoMME",
+            "dataset": "Video-MME",
+            "nframe": 64
+        },
+        "LongVideoBench_64frame": {
+            "class": "LongVideoBench",
+            "dataset": "LongVideoBench",
+            "nframe": 64
+        }
+    }
+}
